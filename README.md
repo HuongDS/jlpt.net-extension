@@ -6,7 +6,7 @@ Extension dành cho trình duyệt (Chrome, Microsoft Edge, Brave, Cốc Cốc, 
 
 ##  Tính năng nổi bật
 
-1. ** Tự động hỗ trợ Groq (gsk_...), Grok xAI (xai-...) & Gemini (AIzaSy...)**:
+1. Tự động hỗ trợ Groq (gsk_...), Grok xAI (xai-...) & Gemini (AIzaSy...):
    - Nhận diện trực tiếp tiền tố khóa API của bạn:
      - **Groq (`gsk_...`)**: Tốc độ phản hồi siêu tốc (300+ token/giây) với các mô hình tiếng Nhật chất lượng cao như `qwen/qwen3.8-27b`, `openai/gpt-oss-120b`.
      - **Grok xAI (`xai-...`)**: Sử dụng mô hình `grok-2-latest`.
